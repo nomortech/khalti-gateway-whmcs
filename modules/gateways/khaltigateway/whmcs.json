@@ -1,0 +1,33 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "khaltigateway",
+    "category": "payments",
+    "description": {
+        "name": "Khalti Payment Gateway",
+        "tagline": "Enhanced Khalti Payment Gateway Module for WHMCS",
+        "long": "This enhanced module integrates the Khalti Payment Gateway into WHMCS, offering seamless payment processing directly through the Khalti Wallet. It's a forked and upgraded version of the official Khalti Plugin, providing additional features and improved functionality.",
+        "features": [
+            "Seamless WHMCS Integration: Easily integrates with your WHMCS platform, ensuring smooth setup and compatibility.",
+            "Secure Payments via Khalti Wallet: Accept payments directly through the Khalti Wallet, providing a trusted and secure payment option.",
+            "Direct Refund Processing: Process refunds quickly and efficiently from within WHMCS without needing to navigate multiple platforms.",
+            "Enhanced and Optimized Module: Forked and enhanced from the official Khalti Plugin, offering additional features and improved functionality."
+        ]
+    },
+    "logo": {
+        "filename": "Khalti_Logo_Color.png"
+    },
+    "support": {
+        "homepage": "https://nomor.host/khalti-gateway-whmcs",
+        "learn_more": "https://nomor.host/khalti-gateway-whmcs",
+        "email": "support@nomor.host",
+        "support_url": "https://myaccount.nomor.host/supporttickets.php",
+        "docs_url": "https://github.com/nomortech/khalti-gateway-whmcs.git"
+    },
+    "authors": [
+        {
+            "name": "Nomor Host Pvt. Ltd.",
+            "homepage": "https://www.nomor.host/"
+        }
+    ]
+}
