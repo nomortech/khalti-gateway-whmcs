@@ -1,6 +1,6 @@
 # Khalti Payment Gateway Module for WHMCS
 
-Welcome to the **Khalti Payment Gateway Module for WHMCS**. This module integrates the Khalti Wallet with the WHMCS platform, allowing secure and seamless payment processing. This version is an unofficial fork of the original Khalti Payment Gateway Module, enhanced with additional features and improved integration with WHMCS.
+Welcome to the **Khalti Payment Gateway Module for WHMCS**. This module integrates the [Khalti Wallet](https://khalti.com/) with the WHMCS platform, allowing secure and seamless payment processing. This version is an unofficial fork of the original Khalti Payment Gateway Module, enhanced with additional features and improved integration with WHMCS.
 
 ![Khalti Payment Gateway Module for WHMCS](/screenshots/banner_2.png)
 
@@ -59,8 +59,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-This module was initially developed by the Khalti team. This version is an unofficial fork that has been enhanced and maintained by NOMOR HOST Pvt. Ltd.
+This module was initially developed by the [Khalti](https://khalti.com/) team. This version is an unofficial fork that has been enhanced and maintained by [NOMOR HOST Pvt. Ltd.](https://www.nomor.host/)
 
 ---
 
-**Keywords**: WHMCS, Khalti, Khalti Payment Gateway, WHMCS Khalti, Web Hosting Billing, WHMCS Payment Module, Open Source WHMCS Module
+**Keywords**: WHMCS Khalti plugin, Khalti payment gateway for WHMCS, Nepal payment gateway for WHMCS, Nomor Host WHMCS plugin, Best WHMCS payment gateway for Nepal, WHMCS integration, WHMCS Payment Module
