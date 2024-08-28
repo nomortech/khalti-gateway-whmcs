@@ -9,6 +9,7 @@ Welcome to the **Khalti Payment Gateway Module for WHMCS**. This module integrat
 -   **Seamless WHMCS Integration**: Easy to set up and fully compatible with your existing WHMCS installation.
 -   **Secure Payments via Khalti Wallet**: Accept payments directly through the Khalti Wallet, providing a trusted payment option.
 -   **Direct Refund Processing**: Process refunds directly from within WHMCS.
+-   **Gateway Logs**: Logs and Error will be displayed in the Gateway Logs of WHMCS for easy troubleshooting and debugging.
 -   **Enhanced Module**: A forked and improved version of the official Khalti Plugin, with added functionality.
 
 ## Requirements
